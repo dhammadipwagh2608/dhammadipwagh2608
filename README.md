@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi, I'm Dhammadip 👋
 
-<!--
-**dhammadipwagh2608/dhammadipwagh2608** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Final-year BSc Data Science & Big Data Analytics (Hons.) student  
+📊 Aspiring Data Analyst  
+📍 Pune , India  
 
-Here are some ideas to get you started:
+## About Me
+I am a final-year student pursuing Data Science and Big Data Analytics.
+I am interested in working with data analysis, SQL, and dashboards.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+- Python 
+- SQL 
+- Power BI 
+- Excel 
+
+## Projects 
+- Sales Data Analysis & Power BI Dashboard
+- Customer Segmentation using Python
+- Student Performance Prediction
+
+## Currently Learning
+- SQL for data analysis
+- Power BI dashboards
+
+## Contact
+- Email: dhammadipwagh2004@gmail.com
+- LinkedIn: www.linkedin.com/in/dhammadip-wagh-204448256
