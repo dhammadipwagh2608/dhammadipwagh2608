@@ -15,13 +15,10 @@ I am interested in working with data analysis, SQL, and dashboards.
 - Excel 
 
 ## Projects 
-- Sales Data Analysis & Power BI Dashboard
-- Customer Segmentation using Python
-- Student Performance Prediction
+- Customer Purchase Behavior Insights
+- Public Transport Commute Pattern Dashboard
+- Mini Project (Group): Fake News Detection using NLP
 
-## Currently Learning
-- SQL for data analysis
-- Power BI dashboards
 
 ## Contact
 - Email: dhammadipwagh2004@gmail.com
